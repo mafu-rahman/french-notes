@@ -1,7 +1,7 @@
 ---
 tags: [verbs, reflexive-verbs, pronouns, beginner-intermediate]
 difficulty: beginner-intermediate
-related: [[Object Pronouns]], [[Passé Composé]], [[Present Tense]]
+related: [[Object Pronouns]], [[Passé Composé]], [[Present Tense]], [[Negation]], [[Introductions and Personal Information]]
 ---
 
 # Reflexive Verbs
@@ -67,6 +67,11 @@ This verb is semi-irregular: it uses double **l** in most forms, but not in **no
 | ils     | ils s'appellent    | their names are               | pronounced the same as appeler |
 | elles   | elles s'appellent  | their names are               | pronounced the same as appeler |
 
+The **nous** and **vous** forms use one **l**:
+
+- nous nous appelons
+- vous vous appelez
+
 ### Negative
 
 | Subject | Negative |
@@ -98,6 +103,48 @@ Useful examples:
 - Comment vous appelez-vous ? = What is your name? formal
 - Comment t'appelles-tu ? = What is your name? informal
 - Je m'appelle ___. = My name is ___.
+
+---
+
+## Example: Se Laver
+
+**se laver** = to wash oneself
+
+| Subject | Conjugation |
+|---|---|
+| je | me lave |
+| tu | te laves |
+| il / elle / on | se lave |
+| nous | nous lavons |
+| vous | vous lavez |
+| ils / elles | se lavent |
+
+Examples:
+
+- Je me lave les mains. = I wash my hands.
+- Elle se lave le visage. = She washes her face.
+- Nous nous lavons le matin. = We wash in the morning.
+
+---
+
+## Example: Se Réveiller
+
+**se réveiller** = to wake up / to wake oneself
+
+| Subject | Conjugation |
+|---|---|
+| je | me réveille |
+| tu | te réveilles |
+| il / elle / on | se réveille |
+| nous | nous réveillons |
+| vous | vous réveillez |
+| ils / elles | se réveillent |
+
+Examples:
+
+- Je me réveille à sept heures. = I wake up at seven o'clock.
+- Tu te réveilles tôt ? = Do you wake up early?
+- Ils se réveillent tard. = They wake up late.
 
 ---
 
@@ -160,3 +207,18 @@ The past participle usually agrees with the subject.
 
 ❌ Je vais se lever.  
 ✅ Je vais me lever.
+
+❌ Il ne se appelle pas Marc.  
+✅ Il ne s'appelle pas Marc.
+
+---
+
+## Practice
+
+Conjugate the reflexive verb:
+
+1. je ___ (s'appeler)
+2. tu ___ (se laver)
+3. elle ___ (se réveiller)
+4. nous ___ (s'appeler)
+5. ils ___ (se laver)

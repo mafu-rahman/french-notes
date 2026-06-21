@@ -12,6 +12,30 @@ Supplementary reference for grammar patterns, common issues, and exceptions.
 
 ---
 
+## 🧱 Basic Sentence Order
+
+The basic French sentence pattern is:
+
+**subject + verb + object**
+
+| Part | French | English |
+|---|---|---|
+| Subject | Je | I |
+| Verb | mange | eat |
+| Object | une pomme | an apple |
+
+Example:
+
+- Je mange une pomme. = I eat an apple.
+- Tu as un stylo. = You have a pen.
+- Elle lit un livre. = She reads a book.
+
+Negation usually wraps around the verb:
+
+- Je ne mange pas de pomme. = I do not eat an apple / any apple.
+
+---
+
 ## 🎯 Gender & Number
 
 ### Every Noun Has Gender

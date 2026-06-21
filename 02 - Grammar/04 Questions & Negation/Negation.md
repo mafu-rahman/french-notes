@@ -1,7 +1,7 @@
 ---
 tags: [grammar, negation, beginner]
 difficulty: beginner
-related: [[Subject Pronouns]], [[Asking Questions]], [[Present Tense]]
+related: [[Subject Pronouns]], [[Asking Questions]], [[Present Tense]], [[Indefinite Articles]]
 ---
 
 # Negation
@@ -67,6 +67,19 @@ After a negative verb, **un**, **une**, **des**, **du**, **de la**, and **de l'*
 
 This means "not any."
 
+### Quick Class Pattern
+
+Use **de** after **pas** before a consonant:
+
+- Oui, j'ai un stylo. -> Non, je n'ai pas **de** stylo.
+- Oui, il a des livres. -> Non, il n'a pas **de** livres.
+- Oui, elle a une robe. -> Non, elle n'a pas **de** robe.
+
+Use **d'** before a vowel sound:
+
+- Oui, nous avons un ordinateur. -> Non, nous n'avons pas **d'**ordinateur.
+- Oui, il y a de l'eau. -> Non, il n'y a pas **d'**eau.
+
 ### Exception: Être
 
 After **être**, the article usually does not change to **de**.
@@ -101,6 +114,9 @@ When **des** comes before a plural adjective + noun, it often becomes **de**.
 
 ❌ Je n'ai pas un livre.  
 ✅ Je n'ai pas de livre.
+
+❌ Il n'a pas des livres.  
+✅ Il n'a pas de livres.
 
 ❌ Elle ne va parler pas.  
 ✅ Elle ne va pas parler.
