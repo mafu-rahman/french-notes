@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "f2f3efb4156dd7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0098fdc5f20a8ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4cdc3501d7d5c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dc92e6d78b07822",
+    "type": "split",
+    "children": [
+      {
+        "id": "611bab90be45c0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b75f34811bc84792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1ca35b014ecf567",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c05ea9129ad6a5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "temp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "a5e0b19cae87463e",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a41994bd53f44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2779ba69708cb019",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5a4cdc3501d7d5c5",
+  "lastOpenFiles": [
+    "03 - Verbs/01 Essential Verbs/AVOIR.md",
+    "03 - Verbs/01 Essential Verbs/ÊTRE.md",
+    "03 - Verbs/01 Essential Verbs/ALLER.md",
+    "03 - Verbs/02 Regular Verbs/IR Verbs.md",
+    "03 - Verbs/02 Regular Verbs/ER Verbs.md",
+    "_ Classes with Anish/Week 16.md",
+    "_ Classes with Anish/cd6eaf06-29db-4507-aade-acaccf733097 copy.jpg",
+    "_ Classes with Anish/Screenshot 2026-06-21 at 12.10.53 PM.png",
+    "01 - Fundamentals/03 Vowel Combinations.md",
+    "06 - Tenses & Moods/01 Present Tense.md",
+    "02 - Grammar/04 Questions & Negation/Negation.md",
+    "_ Classes with Anish/Pasted image 20260621114808.png",
+    "03 - Verbs/04 Reflexive Verbs/Reflexive Verbs.md",
+    "_ Classes with Anish/Pasted image 20260621114808.png.sb-7a168fee-k8hBzK",
+    "_ Classes with Anish/Pasted image 20260621115109.png",
+    "_ Classes with Anish/Pasted image 20260621115103.png",
+    "_ Classes with Anish/Pasted image 20260621114734.png",
+    "_ Classes with Anish/Week 14.md",
+    "_ Classes with Anish/Week 15.md",
+    "_ Classes with Anish/Untitled.md",
+    "_ Classes with Anish/Week 12.md",
+    "Untitled.canvas",
+    "02 - Grammar/Feminine of Nouns and Adjectives.md",
+    "02 - Grammar/06 Adjectives/Adjectives and Agreement.md",
+    "06 - Tenses & Moods/04 Passé Composé.md",
+    "02 - Grammar/Grammar Tips & Rules.md",
+    "01 - Fundamentals/04 Accents & Diacritics.md",
+    "01 - Fundamentals/02 Alphabet & Sounds.md",
+    "02 - Grammar/05 Possession/Possession with DE.md",
+    "03 - Verbs/03 Irregular Verbs/FAIRE.md",
+    "03 - Verbs/03 Irregular Verbs/APPRENDRE.md",
+    "06 - Tenses & Moods/03 Imperative Mood.md",
+    "06 - Tenses & Moods/02 Future Proche.md",
+    "03 - Verbs/02 Regular Verbs/RE Verbs.md",
+    "02 - Grammar/03 Nouns & Plurals",
+    "Untitled.base",
+    "03 - Verbs/04 Reflexive Verbs",
+    "02 - Grammar/08 Comparisons",
+    "02 - Grammar/07 Adverbs",
+    "02 - Grammar/05 Possession",
+    "02 - Grammar/06 Adjectives",
+    "02 - Grammar/04 Questions & Negation",
+    "_ Classes with Anish"
+  ]
+}
